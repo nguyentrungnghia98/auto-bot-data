@@ -1,0 +1,42 @@
+{
+  "enableMe": true,
+  "password": "5ae5cda1f12c9f8281b0706afdfe4da3436468336458d39de8baa858bfa273a284318558082097",
+  "key": "1a7fd4e4efc66bcda39081a089909086ddf828346ca69c2ac62cd84d1d4e54d340717827406733",
+  "infos": [
+    {
+      "name": "dev",
+      "key": "6bf3f847221-d18a112-4279291-90bf900-a6f152264fb5684",
+      "hash": "f5c4a7ca68bb58c861c64407b595a61b01057f9305a2993e654228de08f3368162000281995155"
+    },
+    {
+      "name": "Minh",
+      "hash": "d0ac76a2ff9b4259bea45170be70846c2f23f8b9ec9bf2c94f5a28a84a2c240f28312074642071",
+      "key": "20036635760226494-fe23a7c2a5-5e6dd9-e2efd3-23bb32-4d9c05d08b2c39"
+    },
+    {
+      "name": "Fomo1",
+      "hash": "ce9efdeb6f6059448ad3e6dce068d2039da9e4eb089f85221cb0ce66665ac87406442732127679",
+      "key": "8SSB20J64725V2SZ5C600FA6c-dda37a830b-79c984-47ce82-aab810-899efe5c9316bd"
+    },
+    {
+      "name": "Fomo2",
+      "hash": "e84539e563f1809746c49d384745fcde55c707f9a44150ce43dab516668c8a6d51645307101824",
+      "key": "8SSB20A05921V1SZ5C8000S6c-fde1925c0b-3b6084-47e482-b0f513-0064010fd86758"
+    },
+    {
+      "name": "Yến",
+      "key": "8SSB20J64725V2SZ5AA00MC6c-20a666030b-479784-449e81-897de5-4c46d6eb840bba",
+      "hash": "9baf65203f5a65e173c6c1dd14733115b66ce81bc9be9dd90d354f0e1fb40a6406436378122529"
+    },
+    {
+      "name": "Tâm",
+      "key": "22121383640251558-b71e3a8811-4c6d22-4a5bce-bd9170-7d302ad3d07fc0",
+      "hash": "ea06a013d0bd656aaafe9de3bbc2d7626cd18b98f6c835314ee8352f53870b0728312075145311"
+    },
+    {
+      "name": "Việt",
+      "key": "8SSB20J64725V2SZ5C600FT6c-7b8ce5ef0b-519484-42a782-8aba13-5f8fe81605fe10",
+      "hash": "307b1377a1819f111b1960a2425f44a9807579ea2a57e708a64821aa5fb3a41462008933390025"
+    }
+  ]
+}
